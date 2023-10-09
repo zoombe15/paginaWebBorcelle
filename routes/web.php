@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,11 +15,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/productos', function () {
+    return view('productos');
+});
+
 Route::get('/resources/views/login', function () {
     return view('login');
 });
 Route::get('/resources/views/dashboard', function () {
     return view('dashboard');
+});
+Route::get('/menu', function () {
+    return view('menu');
 });
 Route::get('/', function () {
     return view('welcome');
@@ -49,3 +58,4 @@ Route::get('/librorecla', function () {
 Route::get('/nosotros', function () {
     return view('nosotros');
 });
+
