@@ -451,15 +451,74 @@ span a:hover {
     margin-top: 60px;
 }
 
+/*Estilo para Libro de Reclamaciones */
+
+span {
+text-align: center;
+color: white;
+margin-top: 60px;
+font-size: 30px;
+display: block;
+font-family: monospace;
+white-space: nowrap;
+
+width: 22ch;
+margin: 40px auto;
+
+animation: typing 2s steps(12), blink .5s infinite step-end alternate;
+overflow:hidden;
+}
+
+@keyframes typing {
+
+from { width: 0}
+}
+
+@keyframes blink {
+ 50% { border-color: transparent}
+}
+
 .section {
     background-color: #fff;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 20px auto;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
     max-width: 800px;
     /* Controla el ancho máximo de los elementos */
+}
+
+
+.bloque{
+    margin: 0 0 1em;
+    padding: 1px;
+}
+
+.reclamo{
+    text-align: center;
+    border: 3px rgb(91, 9, 167) solid;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 0 0 1em;
+    padding:15px;
+    color: rgb(91, 9, 167);
+}
+ .contenido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 0px;
+    padding: 0em;   
+    
+    border-radius: 5px; 
+    overflow: hidden;
+    transition: all .5s ease;
+}
+
+.bloque.activo .contenido{
+    height: 6em;
 }
 
 ul {
@@ -787,3 +846,4 @@ h3 {
         display: none;
     }
 }
+

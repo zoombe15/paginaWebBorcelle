@@ -35,11 +35,11 @@
         <div class="hero">
             <h2>¡Bienvenidos al portal exclusivo para empleados de Bertello!</h2>
             <p>
-                En Bertello, estamos comprometidos con la excelencia en el sector farmacéutico y con el
+                <strong>En Bertello, estamos comprometidos con la excelencia en el sector farmacéutico y con el
                 bienestar de las personas en todo el mundo. Aquí, en esta plataforma exclusiva, no solo
                 encontrarás recursos y herramientas esenciales para llevar a cabo tu labor de manera eficiente,
                 sino que también te sumergirás en un ambiente de trabajo que fomenta la innovación,
-                la colaboración y el orgullo de pertenecer a esta gran familia.
+                la colaboración y el orgullo de pertenecer a esta gran familia.</strong>
             </p>
             <div class="buttons">
                 <a href="login" class="join">Ingresar Ahora</a>
