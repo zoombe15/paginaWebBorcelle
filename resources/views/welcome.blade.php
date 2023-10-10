@@ -20,11 +20,11 @@
                 </svg>
             </label>
             <ul class="links">
-                <li><a href="welcome">Inicio</a></li>
-                <li><a href="nosotros">Contáctanos/Ubícanos</a></li>
-                <li><a href="#">Servicios</a></li>
-                <li><a href="reclamaciones">Reclamaciones</a></li>
-                <li><a href="sugerencias">Sugerencias</a></li>
+                    <li><a href="welcome">Inicio</a></li>
+                    <li><a href="nosotros">Contáctanos/Ubícanos</a></li>
+                    <li><a href="reclamaciones">Reclamaciones</a></li>
+                    <li><a href="preguntas">Preguntas Frecuentes</a></li>
+                    <li><a href="sugerencias">Sugerencias</a></li>
             </ul>
             <div class="buttons">
                 <a href="login" class="signup">Iniciar Sesión</a>

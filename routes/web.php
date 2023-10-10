@@ -39,8 +39,8 @@ Route::get('/login', function () {
     return view('login');
 });
 
-Route::get('/reclamaciones', function () {
-    return view('reclamaciones');
+Route::get('/preguntas', function () {
+    return view('preguntas');
 });
 
 Route::get('/dashboard', function () {
@@ -51,8 +51,8 @@ Route::get('/sugerencias', function () {
     return view('sugerencias');
 });
 
-Route::get('/librorecla', function () {
-    return view('librorecla');
+Route::get('/reclamaciones', function () {
+    return view('reclamaciones');
 });
 
 Route::get('/nosotros', function () {

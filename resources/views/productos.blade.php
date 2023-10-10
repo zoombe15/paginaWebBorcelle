@@ -236,7 +236,7 @@
     
 
     <script > 
-
+          //SCRIPT PARA MENU LATERAL
         const body= document.querySelector('body'),
             sidebar = body.querySelector('nav'),
             toggle= body.querySelector('.toggle'),
@@ -244,16 +244,18 @@
             modeSwitch = body.querySelector('.toggle-switch'),
             modeText = body.querySelector('.mode-text');
 
+            // Al hacer click en el icono de menu se agrega y elimina la funcion close
             toggle.addEventListener("click",()=>{
                 sidebar.classList.toggle("close");
                 
             })
 
-            
+            // Al hacer click en el icono de busqueda elimina la funcion close
             searchBtn.addEventListener("click",() =>{
                 sidebar.classList.remove("close");
             })
 
+            
             //SCRIPT PARA CARRUSEL
 
             const productContainers = [...document.querySelectorAll('.product-container')];
@@ -263,7 +265,8 @@
             productContainers.forEach((item, i) => {
                 let containerDimensions = item.getBoundingClientRect();
                 let containerWidth = containerDimensions.width;
-
+                
+                //Animacion de flechas para moverse entre imagenes
                 nxtBtn[i].addEventListener("click", () => {
                     item.scrollLeft += containerWidth;
                 })
@@ -272,6 +275,7 @@
                     item.scrollLeft -= containerWidth;
                 })
             })
+
     </script> 
 
 
