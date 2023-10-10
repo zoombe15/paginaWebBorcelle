@@ -68,7 +68,7 @@ body {
 
 .sidebar .icon {
     min-width: 60px;
-    border-radius: 6px;
+    border-radius: 0px;
     height: 100%;
     display: flex;
     align-items: center;
@@ -147,6 +147,20 @@ body {
     background-color: #2adad146;
 
 }
+
+.sidebar li .text {
+
+  min-width: 170px;
+  height: 100%;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  background-color: #2adad146;
+
+}
+
+
+
 
 
 
@@ -345,6 +359,7 @@ body.dar .mode .sun-noon i.noon {
     color: #0000008e;
     margin-bottom: 40px;
     text-transform: capitalize;
+
   }
   .product-category {
 
@@ -387,24 +402,14 @@ body.dar .mode .sun-noon i.noon {
     object-fit: cover;
   }
   
-  .discount-tag {
-    position: absolute;
-    background: #fff;
-    padding: 5px;
-    border-radius: 5px;
-    color: #ff7d7d;
-    right: 10px;
-    top: 10px;
-    text-transform: capitalize;
-  }
-  
+
   .card-btn {
     position: absolute;
-    bottom: 10px;
-    left: 50%;
+    bottom: 50px;
+    left: 71px;
     transform: translateX(-50%);
-    padding: 10px;
-    width: 90%;
+    height: 70px;
+    width: 100px;
     text-transform: capitalize;
     border: none;
     outline: none;
@@ -414,25 +419,55 @@ body.dar .mode .sun-noon i.noon {
     cursor: pointer;
     opacity: 0;
   }
+
+  .card-btn2 {
+    position:absolute;
+    bottom: 50px;
+    left: 179px;
+    transform: translateX(-50%);
+    height: 70px;
+    width: 100px;
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    background: #fff;
+    border-radius: 5px;
+    transition: 0.5s;
+    cursor: pointer;
+    opacity: 0;
+  }
+
   
   .product-card:hover .card-btn {
     opacity: 1;
   }
+  .product-card:hover .card-btn2 {
+    opacity: 1;
+  }
   
   .card-btn:hover {
-    background: #ff7d7d;
+    background: #000000e3;
+    color: #fff;
+  }
+  .card-btn2:hover {
+    background: #000000e3;
     color: #fff;
   }
   
   .product-info {
     width: 100%;
-    height: 100px;
+    height: 60px;
     padding-top: 10px;
+
   }
+
+
+
+.product-brand {
+    text-align: center; /* Centrar el texto dentro del elemento h2 */
+}
   
-  .product-brand {
-    text-transform: uppercase;
-  }
+
   
   .product-short-description {
     width: 100%;
@@ -477,7 +512,7 @@ body.dar .mode .sun-noon i.noon {
 
  
   .nxt-btn{
-    right: 50px;
+    right: 5px;
   }
 
  
@@ -531,14 +566,14 @@ body.dar .mode .sun-noon i.noon {
     --bs-card-spacer-y:1rem;
     --bs-card-spacer-x: 0.5rem;
     --bs-card-title-spacer-y: 2rem;
-    --bs-card-border-width: 1px;
+    --bs-card-border-width: 1.5px;
     --bs-card-border-color:#0000009c;
     --bs-card-border-radius: 0.375rem;
     --bs-card-box-shadow: ;
     --bs-card-inner-border-radius: calc(0.375rem - 1px);
     --bs-card-cap-padding-y: 0.5rem;
     --bs-card-cap-padding-x: 1rem;
-    --bs-card-cap-bg: rgb(17, 199, 199);
+    --bs-card-cap-bg: rgb(120, 240, 240);
     --bs-card-cap-color: ;
     --bs-card-height: ;
     --bs-card-color: ;

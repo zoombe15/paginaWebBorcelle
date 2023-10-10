@@ -128,123 +128,103 @@
 
                 <div class="product-container">
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
                             <div class="product-info">
-                                <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                                <h2 class="product-brand">ISLA mint</h2>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
                             <div class="product-info">
-                                <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                                <h2 class="product-brand">Kitadol</h2>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/kitadol.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
-                            <div class="product-info">
+                         <div class="product-info">
                                 <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
                             <div class="product-info">
                                 <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
                             <div class="product-info">
                                 <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
                             <div class="product-info">
                                 <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
                             <div class="product-info">
                                 <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
-                            <div class="product-info">
+                           <div class="product-info">
                                 <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
                             <div class="product-info">
                                 <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                         <div class="product-card">
-                            <div class="product-image">
-                                <span class="discount-tag">50% off</span>
-                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
-                                <button class="card-btn">add to wishlist</button>
-                            </div>
                             <div class="product-info">
                                 <h2 class="product-brand">brand</h2>
-                                <p class="product-short-description">a short line about the cloth..</p>
-                                <span class="price">$20</span><span class="actual-price">$40</span>
+                            </div>
+                            <div class="product-image">
+                                <img src="ImagenProductos/paracetamol1.jpg" class="product-thumb" alt="">
+                                <button class="card-btn">Eliminar</button>
+                                <button class="card-btn2">Editar</button>
                             </div>
                         </div>
                 </div>

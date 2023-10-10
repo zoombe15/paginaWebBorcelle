@@ -69,7 +69,7 @@
                         <a class="olcon" href="olcon">Olvidé mi contraseña</a>
                         <!-- Botón de envío del formulario -->
                         <div class="buttons">
-                            <a href="dashboard" class="signup">Iniciar Sesión</a>
+                            <a href="menu" class="signup">Iniciar Sesión</a>
                         </div>
                         
                         <br>
